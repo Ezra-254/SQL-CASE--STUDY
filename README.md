@@ -1,4 +1,4 @@
-    #** Objectives**:
+    #Objectives:
 
 Find Museums Open on Sunday and Monday
 Identify museums that are open on both days and display their name and city.
